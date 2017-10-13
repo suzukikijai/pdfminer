@@ -1,2 +1,4 @@
 
 build/
+
+pdfminer/__init__\.pyc
