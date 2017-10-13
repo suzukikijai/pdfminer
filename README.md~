@@ -1,6 +1,6 @@
 PDFMiner
 ========
-//Modded by Sooraj Antony for use in UMN.one
+
 [![Build Status](https://travis-ci.org/euske/pdfminer.svg?branch=master)](https://travis-ci.org/euske/pdfminer)
 
 PDFMiner is a tool for extracting information from PDF documents.
